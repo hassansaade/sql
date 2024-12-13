@@ -15,7 +15,7 @@
 - Two tables are diagramed as a logical model
   - Needs to contain table names, column names, relationships between columns, relationship-type
 - Any format acceptable so long as a "logical model"
-
+![alt text](<Entity-Relationship Diagram.png>)
 ## Section 2
 - *All questions have been attempted** 
 - **The following questions return the correct result set:** 
